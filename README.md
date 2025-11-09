@@ -288,6 +288,11 @@ EcoFi_Citi_Blockchain/
 - ✅ **Role-based Access Control**
 - ✅ **Enterprise-scale Thresholds**
 
+ScreenShots
+---
+<img width="1225" height="584" alt="image" src="https://github.com/user-attachments/assets/c1d6f978-710d-49d9-862a-ded081e7bbc8" />
+
+---
 ## 🤝 Support
 
 For issues or questions:
@@ -303,3 +308,4 @@ This project is part of the Citi Blockchain Innovation Challenge and follows sta
 ---
 
 **Ready to revolutionize green finance? Start your local environment and begin building the future of sustainable investing! 🌱💚**
+
