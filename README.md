@@ -110,6 +110,7 @@ npm start
 2. **Import Test Account:**
    - Private Key: `0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80`
    - This is the issuer account with 10,000 ETH
+   - This is just a test account's private key with test ETH
 
 3. **Connect to Platform:**
    - Refresh browser after MetaMask setup
@@ -308,4 +309,5 @@ This project is part of the Citi Blockchain Innovation Challenge and follows sta
 ---
 
 **Ready to revolutionize green finance? Start your local environment and begin building the future of sustainable investing! 🌱💚**
+
 
